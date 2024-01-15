@@ -21,5 +21,3 @@ Download it and open the "index.html" in your browser!
 ## Authors
 
 - Me : [@avadakedavra6](https://github.com/AvadaKedavra6)
-- thanks to [this](https://readme.so) (readme generator)
-
