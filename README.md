@@ -8,6 +8,8 @@ It's very simple to do that's why I'm giving you the source code.
 Forgive me for the horrible colors and presentation of the site, I did it very quickly without worrying about beauty!
 
 
+## Preview
+[Here :)](https://avadakedavra6.github.io/Simple-Quiz-in-js/)
 
 ## Installation
 
